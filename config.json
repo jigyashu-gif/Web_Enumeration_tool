@@ -1,0 +1,5 @@
+{
+  "timeout": 5.0,
+  "threads": 20,
+  "theme": "system"
+}
